@@ -11,7 +11,7 @@ import (
 	"github.com/joho/godotenv"
 )
 
-const channelName = "zackrawrr" // Channel to monitor
+const channelName = "rekful" // Channel to monitor
 
 // getOAuthToken fetches an OAuth token from Twitch.
 func getOAuthToken(clientID, clientSecret string) (string, error) {
